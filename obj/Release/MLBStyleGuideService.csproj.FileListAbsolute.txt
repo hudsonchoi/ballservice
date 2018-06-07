@@ -1,0 +1,10 @@
+D:\Diamond\Project\MLBStyleGuideService\bin\MLBStyleGuideService.dll
+D:\Diamond\Project\MLBStyleGuideService\bin\MLBStyleGuideService.pdb
+D:\Diamond\Project\MLBStyleGuideService\obj\Release\MLBStyleGuideService.csprojResolveAssemblyReference.cache
+D:\Diamond\Project\MLBStyleGuideService\obj\Release\MLBStyleGuideService.dll
+D:\Diamond\Project\MLBStyleGuideService\obj\Release\MLBStyleGuideService.pdb
+D:\Project\MLBStyleGuideService\bin\MLBStyleGuideService.dll
+D:\Project\MLBStyleGuideService\bin\MLBStyleGuideService.pdb
+D:\Project\MLBStyleGuideService\obj\Release\MLBStyleGuideService.csprojResolveAssemblyReference.cache
+D:\Project\MLBStyleGuideService\obj\Release\MLBStyleGuideService.dll
+D:\Project\MLBStyleGuideService\obj\Release\MLBStyleGuideService.pdb
