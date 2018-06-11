@@ -147,6 +147,12 @@ namespace MLBStyleGuideService.DAL
                 case 15:
                     sectionName = "playball";
                     break;
+                case 16:
+                    sectionName = "sponsors";
+                    break;
+                case 17:
+                    sectionName = "london";
+                    break;
             }
 
             return sectionName;
