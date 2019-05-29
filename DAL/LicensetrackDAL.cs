@@ -153,6 +153,9 @@ namespace MLBStyleGuideService.DAL
                 case 17:
                     sectionName = "london";
                     break;
+                case 18:
+                    sectionName = "restricted2";
+                    break;
             }
 
             return sectionName;
