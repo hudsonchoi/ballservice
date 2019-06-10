@@ -156,6 +156,9 @@ namespace MLBStyleGuideService.DAL
                 case 18:
                     sectionName = "restricted2";
                     break;
+                case 19:
+                    sectionName = "restricted3";
+                    break;
             }
 
             return sectionName;
