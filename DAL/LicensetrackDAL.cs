@@ -159,6 +159,9 @@ namespace MLBStyleGuideService.DAL
                 case 19:
                     sectionName = "restricted3";
                     break;
+                case 20:
+                    sectionName = "mlblogovault";
+                    break;
             }
 
             return sectionName;
