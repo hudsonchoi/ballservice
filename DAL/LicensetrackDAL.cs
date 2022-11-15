@@ -163,12 +163,15 @@ namespace MLBStyleGuideService.DAL
                     sectionName = "mlblogovault";
                     break;
                 case 21:
-                    sectionName = "allscp";
+                    sectionName = "restricted4";
                     break;
                 case 22:
-                    sectionName = "openingcp";
+                    sectionName = "allscp";
                     break;
                 case 23:
+                    sectionName = "openingcp";
+                    break;
+                case 24:
                     sectionName = "springcp";
                     break;
             }
