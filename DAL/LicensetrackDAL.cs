@@ -174,6 +174,9 @@ namespace MLBStyleGuideService.DAL
                 case 24:
                     sectionName = "springcp";
                     break;
+                case 25:
+                    sectionName = "postseasoncp";
+                    break;
             }
 
             return sectionName;
