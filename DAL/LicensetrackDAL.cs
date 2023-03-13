@@ -166,16 +166,16 @@ namespace MLBStyleGuideService.DAL
                     sectionName = "restricted4";
                     break;
                 case 22:
-                    sectionName = "allscp";
+                    sectionName = "allssp";
                     break;
                 case 23:
-                    sectionName = "openingcp";
+                    sectionName = "openingsp";
                     break;
                 case 24:
-                    sectionName = "springcp";
+                    sectionName = "springsp";
                     break;
                 case 25:
-                    sectionName = "postseasoncp";
+                    sectionName = "worldsp";
                     break;
             }
 
