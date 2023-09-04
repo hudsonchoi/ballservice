@@ -177,6 +177,9 @@ namespace MLBStyleGuideService.DAL
                 case 25:
                     sectionName = "worldem";
                     break;
+                case 26:
+                    sectionName = "restricted5";
+                    break;
             }
 
             return sectionName;
